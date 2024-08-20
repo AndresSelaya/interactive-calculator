@@ -1,0 +1,45 @@
+:root {
+  font-family: system-ui, sans-serif;
+
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #1A1B31;
+
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  border-radius: 20px;
+  min-height: max-content;
+  min-width: max-content;
+  padding: 0;
+  font-size: 30px;
+  font-family: Arial, sans-serif;
+  font-weight: 600;
+  color: #fff;
+  border: 1.5px  solid #fff;
+  cursor: pointer;
+}
+button:hover {
+  border-color: #646cff;
+}
+
+.btn-center {
+  background-color: #1A1B31;
+}
+
+.btn-center:hover {
+  background-color: #5A02A5;
+}
+
+.btn-operator {
+  background-color: #01461A;
+}
+
+.btn-operator:hover {
+  background-color: #FE6602;
+}
+
